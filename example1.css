@@ -1,0 +1,44 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hide{
+    display: none;
+}
+
+#btn{
+    color: white;
+    background-color:rgb(43, 138, 161);
+    border-radius: 10px;
+    font-size: 16px;
+    margin: 30px 2px;
+    cursor: pointer;
+    padding: 15px;
+    text-align: center;
+    display: inline-block;
+    box-shadow: 3px 3px rgb(165, 204, 218);
+}
+
+.heading
+{
+    font-size: 20px;
+    color: rgb(22, 4, 102);
+    background-color: darkturquoise;
+    padding: 5px 7px;
+    margin: 20px 250px;
+    border-radius: 15px;
+    box-shadow: 5px 5px rgb(64, 95, 95);
+}
+
+.box1
+{
+    margin: 50px;
+    margin-left: 150px;
+    background-color: rgb(235, 238, 240);
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+#box hr{
+    margin: 10px;
+}
